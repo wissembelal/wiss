@@ -15,6 +15,7 @@ const About = () => {
         <li><a href="/Careers" className="text-dark text-decoration-none"></a></li>
         <li><a href="/OurStory" className="text-dark text-decoration-none"></a></li>
         <li><a href="/Team" className="text-dark text-decoration-none"></a></li>
+          <li><a href="/Team" className="text-dark text-decoration-none"></a></li>
       </ul>
 
       {/* Sections associées */}
